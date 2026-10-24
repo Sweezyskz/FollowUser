@@ -1,0 +1,128 @@
+LICENCE PROPRIÉTAIRE — TOUS DROITS RÉSERVÉS
+FollowUser — Plugin BetterDiscord
+Copyright (c) 2026 Sweezy (Maël Gossé). Tous droits réservés.
+
+────────────────────────────────────────────────────────────────────────
+
+⚠️  ACCEPTATION — À LIRE AVANT TOUT TÉLÉCHARGEMENT
+
+LE SIMPLE FAIT DE TÉLÉCHARGER, COPIER, OUVRIR, INSTALLER OU EXÉCUTER CE
+LOGICIEL, PAR QUELQUE MOYEN QUE CE SOIT (BOUTON DE TÉLÉCHARGEMENT, LIEN
+DIRECT, CLONE DU DÉPÔT, COPIE DU CODE, FICHIER TRANSMIS PAR UN TIERS…),
+VAUT ACCEPTATION PLEINE, ENTIÈRE ET SANS RÉSERVE DE LA PRÉSENTE LICENCE.
+
+En conséquence, toute personne en possession du Logiciel est réputée :
+  • avoir lu et compris l'intégralité du présent document ;
+  • en avoir accepté chacune des clauses, y compris les sanctions de
+    l'article 4 ;
+  • ne pouvoir invoquer l'ignorance de ces termes pour se soustraire à
+    sa responsabilité.
+
+SI VOUS N'ACCEPTEZ PAS CES TERMES, NE TÉLÉCHARGEZ PAS, N'INSTALLEZ PAS
+ET N'UTILISEZ PAS CE LOGICIEL, ET SUPPRIMEZ TOUTE COPIE EN VOTRE
+POSSESSION.
+
+────────────────────────────────────────────────────────────────────────
+
+1. PROPRIÉTÉ
+
+Ce logiciel, son code source, sa documentation, son nom et tous les
+éléments qui le composent (ci-après « le Logiciel ») sont l'œuvre
+originale et la propriété exclusive de Sweezy (ci-après « l'Auteur »),
+protégée par le Code de la propriété intellectuelle français
+(articles L111-1 et suivants), la Convention de Berne et les traités
+internationaux relatifs au droit d'auteur.
+
+Aucun transfert de propriété ni cession de droit n'est consenti par la
+mise à disposition du Logiciel.
+
+2. DROITS ACCORDÉS
+
+L'Auteur accorde une licence personnelle, gratuite, non exclusive,
+non transférable et révocable à tout moment, limitée STRICTEMENT à :
+
+  a) télécharger le Logiciel depuis le dépôt officiel
+     https://github.com/Sweezyskz/FollowUser ;
+  b) l'installer et l'utiliser à titre personnel, dans sa version
+     inchangée, au sein de BetterDiscord.
+
+Tout autre droit est expressément réservé à l'Auteur.
+
+3. INTERDICTIONS
+
+Sans autorisation écrite, préalable et expresse de l'Auteur, il est
+INTERDIT de :
+
+  a) copier, reproduire ou redistribuer le Logiciel, en tout ou partie,
+     sous quelque forme et par quelque moyen que ce soit ;
+  b) modifier, traduire, adapter, décompiler ou créer une œuvre dérivée
+     du Logiciel ;
+  c) supprimer, masquer ou altérer les mentions d'auteur, de copyright,
+     de version ou de source (@author, @source, @updateUrl, en-tête du
+     fichier, présent fichier LICENCE) ;
+  d) présenter le Logiciel, ou une partie de son code, comme sa propre
+     œuvre ou sous un autre nom d'auteur ;
+  e) le republier sur une autre plateforme, un autre dépôt, un store de
+     plugins ou un serveur Discord sans lien vers le dépôt officiel ;
+  f) le vendre, le louer, le sous-licencier ou l'intégrer à un produit
+     ou service, gratuit ou payant ;
+  g) l'utiliser pour harceler, traquer ou nuire à un utilisateur Discord.
+
+4. SANCTIONS
+
+Toute violation du présent contrat constitue une CONTREFAÇON au sens
+des articles L122-4 et L335-2 et suivants du Code de la propriété
+intellectuelle, passible en France de :
+
+  • jusqu'à 3 ANS D'EMPRISONNEMENT et 300 000 € D'AMENDE
+    (article L335-2 CPI), portés à 7 ans et 750 000 € en bande organisée ;
+  • la confiscation des recettes et du matériel ayant servi à l'infraction ;
+  • des DOMMAGES ET INTÉRÊTS civils couvrant le préjudice subi, le manque
+    à gagner et les bénéfices indûment réalisés par le contrefacteur
+    (article L331-1-3 CPI) ;
+  • la publication de la décision de justice aux frais du contrefacteur.
+
+Le retrait des mentions d'auteur et l'usurpation de paternité
+constituent en outre une atteinte au DROIT MORAL de l'Auteur
+(article L121-1 CPI), imprescriptible et inaliénable.
+
+Des sanctions équivalentes s'appliquent dans tout pays signataire de la
+Convention de Berne.
+
+5. MESURES
+
+L'Auteur se réserve le droit, sans mise en demeure préalable, de :
+
+  • déposer une notification DMCA (17 U.S.C. § 512) auprès de GitHub,
+    Discord, BetterDiscord ou toute plateforme hébergeant une copie
+    non autorisée, entraînant sa suppression immédiate ;
+  • signaler le contrevenant aux plateformes concernées (suspension ou
+    bannissement de compte) ;
+  • engager toute action civile et pénale devant les juridictions
+    compétentes, le contrevenant supportant l'intégralité des frais de
+    procédure et d'avocat.
+
+6. RÉSILIATION
+
+La présente licence est résiliée de plein droit, sans formalité, dès la
+première violation. Le contrevenant doit alors cesser toute utilisation
+et détruire toutes les copies du Logiciel en sa possession.
+
+7. ABSENCE DE GARANTIE
+
+Le Logiciel est fourni « EN L'ÉTAT », sans aucune garantie expresse ou
+implicite. L'Auteur ne saurait être tenu responsable d'aucun dommage
+résultant de son utilisation, y compris toute sanction appliquée par
+Discord à un compte utilisant un client modifié.
+
+8. DROIT APPLICABLE
+
+Le présent contrat est régi par le droit français. Tout litige relève
+de la compétence exclusive des tribunaux français.
+
+────────────────────────────────────────────────────────────────────────
+
+Pour toute demande d'autorisation : https://sweezyskz.github.io/sweezy/
+
+EN TÉLÉCHARGEANT, INSTALLANT OU UTILISANT CE LOGICIEL, VOUS RECONNAISSEZ
+AVOIR LU LA PRÉSENTE LICENCE ET EN ACCEPTER L'INTÉGRALITÉ DES TERMES.
