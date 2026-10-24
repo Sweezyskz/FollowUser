@@ -9,6 +9,9 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-7C3AED?style=for-the-badge)](https://github.com/Sweezyskz/FollowUser/releases)
 [![Licence](https://img.shields.io/badge/licence-tous%20droits%20r%C3%A9serv%C3%A9s-1f1f1f?style=for-the-badge)](LICENSE)
 
+> ⚠️ **En téléchargeant, installant ou utilisant ce plugin, vous reconnaissez avoir lu et accepté l'intégralité de la [LICENCE](LICENSE).**
+> Toute copie, modification ou redistribution non autorisée constitue une contrefaçon (art. L335-2 CPI : jusqu'à 3 ans de prison et 300 000 € d'amende).
+
 </div>
 
 ---
@@ -84,6 +87,7 @@ Comme tout client mod, BetterDiscord n'est pas officiellement supporté par Disc
 Toute copie, modification ou redistribution sans autorisation est interdite.
 
 <div align="center">
+
 Fait avec 💜 par [Sweezy](https://sweezyskz.github.io/sweezy/)
 
 </div>
