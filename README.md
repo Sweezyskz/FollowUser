@@ -4,7 +4,7 @@
 
 **Plugin BetterDiscord — suit automatiquement un utilisateur de vocal en vocal.**
 
-[![Télécharger](https://img.shields.io/badge/%E2%AC%87%20T%C3%A9l%C3%A9charger%20le%20plugin-7C3AED?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/Sweezyskz/FollowUser/main/FollowUser.plugin.js)
+[![Télécharger](https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20le%20plugin-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sweezyskz/FollowUser/releases/latest/download/FollowUser.plugin.js)
 [![BetterDiscord](https://img.shields.io/badge/BetterDiscord-3E82E5?style=for-the-badge&logo=discord&logoColor=white)](https://betterdiscord.app/)
 [![Version](https://img.shields.io/badge/version-1.0.0-7C3AED?style=for-the-badge)](https://github.com/Sweezyskz/FollowUser/releases)
 [![Licence](https://img.shields.io/badge/licence-tous%20droits%20r%C3%A9serv%C3%A9s-1f1f1f?style=for-the-badge)](LICENSE)
@@ -34,7 +34,7 @@ Télécharge et lance l'installeur depuis **[betterdiscord.app](https://betterdi
 ### 2. Télécharger le plugin
 
 Clique sur le bouton violet en haut, ou directement ici :
-**[FollowUser.plugin.js](https://raw.githubusercontent.com/Sweezyskz/FollowUser/main/FollowUser.plugin.js)** → clic droit → *Enregistrer sous…*
+**[FollowUser.plugin.js](https://github.com/Sweezyskz/FollowUser/releases/latest/download/FollowUser.plugin.js)** (téléchargement direct)
 
 > Le fichier doit s'appeler exactement `FollowUser.plugin.js`.
 
@@ -87,7 +87,6 @@ Comme tout client mod, BetterDiscord n'est pas officiellement supporté par Disc
 Toute copie, modification ou redistribution sans autorisation est interdite.
 
 <div align="center">
-
 Fait avec 💜 par [Sweezy](https://sweezyskz.github.io/sweezy/)
 
 </div>
